@@ -1,16 +1,4 @@
-waxan halkan ku bilaabaytnaa project student mgn sys
-
-/////////////////////////////////////////////////////
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-
-its update  for change
-
-
+33333333333335555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
 
 f1606b3 (HEAD -> master) waxan xaliyay confiligtii aniga oo isku daraya labada branch
 9271439 (feature-login) waxan edit gareeyey readme oo feature branchka ah
